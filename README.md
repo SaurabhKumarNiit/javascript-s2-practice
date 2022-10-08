@@ -107,7 +107,7 @@ Get the stock of each non-premium product using JavaScript function chaining str
 
     | Product Name​ |   Stock​   |
     |-|-|
-    | Gucci Round Bucklet Belt​ | 1 |
+    | Gucci Round Bucklet Belt​ | 1|
     | Smiley T-Shirt​ | 1 |
     | Shinie Nail Paint​ | 2​ |
     | Esbeda Wallet​ | 1​ |

@@ -38,3 +38,12 @@ const products = [
 ];
 //filter premium products
 //Write code here
+
+function premiumFilter(arr) {
+    let premiumProduct = arr.filter(items => {
+        return items.price > 300
+    })
+    console.log("Premium Products Are")
+    console.log(premiumProduct);
+}
+premiumFilter(products);
